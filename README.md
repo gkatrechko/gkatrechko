@@ -22,9 +22,6 @@ Right now I am studying at EPAM Systems course for QA Automation Testing.
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatikVodichka&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnatikVodichka&show_icons=true&theme=tokyonight)](https://github.com/IgnatikVodichka)
-
 <a href=#>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatikVodichka&show_icons=true&theme=tokyonight" />
 </a>
