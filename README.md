@@ -1,12 +1,13 @@
 
-## Hi there 👋, I'm Ignat
-### From Odessa, Ukraine
-
+## Hi there 👋 I'm Ignat
+### From Odessa, Ukraine :ukraine:
+#### Welcome to my GitHub Profile :octocat:
 
 I have been working for 9 years in a merchant shipping inducstry as a Navigational Officer on the Bridge before I switched to IT.\
 Right now I am studying at EPAM Systems course for QA Automation Testing.
 
 ### **Skills:**
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -24,7 +25,7 @@ Right now I am studying at EPAM Systems course for QA Automation Testing.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgnatikVodichka&show_icons=true&theme=tokyonight" />
 </a>
 
-**Socials:**
+**My Socials:**
 
 [<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/linkedin.svg' style="color: green;" alt='linkedin' height='40'>](https://www.linkedin.com/in/ignat-katrechko/)  [<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/IgnatikVodichka)
 [<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ignat136)
