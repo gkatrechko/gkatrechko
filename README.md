@@ -26,6 +26,5 @@ Right now I am studying at EPAM Systems course for QA Automation Testing.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnatikVodichka&show_icons=true&theme=tokyonight)](https://github.com/IgnatikVodichka)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/linkedin.svg' style="color: green;" alt='linkedin' height='40'>](https://www.linkedin.com/in/ignat-katrechko/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/IgnatikVodichka)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ignat136)
+[<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/linkedin.svg' style="color: green;" alt='linkedin' height='40'>](https://www.linkedin.com/in/ignat-katrechko/)  [<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/IgnatikVodichka)
+[<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ignat136)
