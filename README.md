@@ -1,9 +1,9 @@
 
-## Hi there 👋 I'm Ignat
+## Hi there 🙋‍♂️ I'm Ignat :bowtie:
 ### From Odessa, Ukraine :ukraine:
 #### Welcome to my GitHub Profile :octocat:
 
-I have been working for 9 years in a merchant shipping inducstry as a Navigational Officer on the Bridge before I switched to IT.\
+I have been working for 9 years in a merchant shipping inducstry as a Navigational Officer on the Bridge before I switched to IT 👨🏼‍💻.\
 Right now I am studying at EPAM Systems course for QA Automation Testing.
 
 ### **Skills:**
