@@ -1,10 +1,11 @@
 
-## Hi there 🙋‍♂️ I'm Ignat :bowtie:
-### From Odessa, Ukraine :ukraine:
-#### Welcome to my GitHub Profile :octocat:
+# Hi there 🙋‍♂️ I'm Ignat :bowtie:
+## From Odessa, Ukraine :ukraine:
+### Welcome to my GitHub Profile :octocat:
 
 I have been working for 9 years in a merchant shipping inducstry as a Navigational Officer on the Bridge before I switched to IT 👨🏼‍💻.\
 Right now I am studying at EPAM Systems course for QA Automation Testing.
+Also I have passed Harvard University CS50x Course and some other courses in Computer Science as well.
 
 ### **Skills:**
 
