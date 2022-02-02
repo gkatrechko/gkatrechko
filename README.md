@@ -21,5 +21,5 @@ Also I have completed Harvard University CS50x(Introduction To Computer Science)
 &nbsp;
 
 [<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/linkedin.svg' style="color: green;" alt='linkedin' height='40'>](https://www.linkedin.com/in/ignat-katrechko/)  [<img src='https://www.codewars.com/packs/assets/logo.61192cf7.svg' alt='codewars' height='41'>](https://www.codewars.com/users/IgnatikVodichka)
-[<img src='https://github.com/IgnatikVodichka/IgnatikVodichka/blob/main/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ignat136)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/ignat136)
 ## 
