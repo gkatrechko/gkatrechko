@@ -20,6 +20,6 @@ Also I have completed Harvard University CS50x(Introduction To Computer Science)
 **My Socials:**
 &nbsp;
 
-[<img src='https://jonbennallick.co.uk/wp-content/uploads/2012/11/LinkedIn-Logo-02-300x300.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignat-katrechko/)  [<img src='https://www.codewars.com/packs/assets/logo.61192cf7.svg' alt='codewars' height='40'>](https://www.codewars.com/users/IgnatikVodichka)
+[<img src='https://jonbennallick.co.uk/wp-content/uploads/2012/11/LinkedIn-Logo-02-300x300.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignat-katrechko/)  [<img src='https://www.codewars.com/packs/assets/logo.61192cf7.svg' alt='codewars' height='39'>](https://www.codewars.com/users/IgnatikVodichka)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/ignat136)
 ## 
