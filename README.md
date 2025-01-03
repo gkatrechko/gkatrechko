@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Ignat 🙋‍♂️ 
-## From Odessa, Ukraine :ukraine:
+## From Odesa, Ukraine :ukraine:
 ### Welcome to my GitHub Profile :octocat:
 
 I have been working for 9 years in a merchant shipping inducstry as a Navigational Officer on the Bridge before I switched to IT 👨🏼‍💻.\
